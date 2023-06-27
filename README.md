@@ -2,18 +2,27 @@
 Double Sided PCB design of Flip-Flop circuitwith NE555 Timer using KiCad.
 Dimensions 25 mm x 27 mm.
 ## Schematic of circuit
-![schematic](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/1efa9a7e-7499-43bb-b09a-656a1879d53d)
+![flip-flop-schematic-](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/96e8f9cd-2b9d-4d49-b6f5-939b52184fb5)
+
 ### ERC Result:
 ![erc](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/71ea6938-224a-4d0e-b644-39850aeb1634)
 ## PCB Board
-![pcb](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/1247d692-48f2-4463-82e6-25adac8de5a0)
+![flip-flop-pcb-front-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/e3f098f6-4d0f-4e10-a1e7-2b64310d2300)
+![flip-flop-pcb-back-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/691adbd1-fe27-44ed-ab3d-5c40aecdef75)
+![flip-flop-pcb-back-silkscreen](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/71cf91a1-50c7-49d0-93fc-eb8fb18d2438)
+
 ### DRC Result:
 ![drc](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/3de538df-642d-449e-9d75-ad2d362a8994)
 ## 3D view of PCB
 ### Front:
-![pcb-3d-front](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/3f695e45-1f27-4161-8cef-2636062d09fc)
+![flip-flop-NE555-timer-3d-front](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/0ff980fd-7ae0-4257-9254-95036e5e3a31)
+
 ### Back:
-![pcb-3d-back](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/a2050e7b-1a48-4ef2-bc0d-78a41a23d095)
+![flip-flop-NE555-timer-3d-back](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/2ec0441a-f6ef-443b-8a34-5b3b473042bd)
+
+# Gerber
+![flip-flop-gerber-front-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/6f341eb8-a536-4b09-9f25-2c76ecf7235b)
+![flip-flop-gerber-back-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/2031093d-22c1-402d-b373-9382672f65d8)
 
 # BOM
 | Id  | Designator | Footprint | Quantity | Designation | Supplier and ref |
