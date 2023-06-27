@@ -14,3 +14,15 @@ Dimensions 25 mm x 27 mm.
 ![pcb-3d-front](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/3f695e45-1f27-4161-8cef-2636062d09fc)
 ### Back:
 ![pcb-3d-back](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/a2050e7b-1a48-4ef2-bc0d-78a41a23d095)
+
+# BOM
+| Id  | Designator | Footprint | Quantity | Designation | Supplier and ref |
+| --- | --- | --- | --- | --- | --- |
+| 1   | R3  | R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal | 1   | 100k |     |
+| 2   | R4  | R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal | 1   | 50k |     |
+| 3   | D1,D2 | LED_D3.0mm | 2   | LED |     |
+| 4   | U1  | DIP-8_W7.62mm_LongPads | 1   | NE555P |     |
+| 5   | R2,R1 | R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal | 2   | 330 |     |
+| 6   | C2  | CP_Radial_D6.3mm_P2.50mm | 1   | 10u |     |
+| 7   | C3  | C_Disc_D3.0mm_W1.6mm_P2.50mm | 1   | 0.1u |     |
+| 8   | J2  | Molex_KK-254_AE-6410-02A_1x02\P2.54mm_Vertical | 1   | Conn\_01x02\_Pin |     |
