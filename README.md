@@ -2,19 +2,19 @@
 Double Sided PCB design of Flip-Flop circuitwith NE555 Timer using KiCad.
 Dimensions: 25 mm x 27 mm.
 
-## Schematic of circuit
+# Schematic of circuit
 ![flip-flop-schematic-](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/96e8f9cd-2b9d-4d49-b6f5-939b52184fb5)
 ### ERC Result:
 ![erc](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/71ea6938-224a-4d0e-b644-39850aeb1634)
 
-## PCB Board
+# PCB Board
 ### Front Copper:
 ![flip-flop-pcb-front-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/e3f098f6-4d0f-4e10-a1e7-2b64310d2300)
 ### Back Copper:
 ![flip-flop-pcb-back-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/691adbd1-fe27-44ed-ab3d-5c40aecdef75)
 ### Silkscreen:
 ![flip-flop-pcb-back-silkscreen](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/71cf91a1-50c7-49d0-93fc-eb8fb18d2438)
-### DRC Result:
+## DRC Result:
 ![drc](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/3de538df-642d-449e-9d75-ad2d362a8994)
 
 ## 3D view of PCB
@@ -29,7 +29,7 @@ Dimensions: 25 mm x 27 mm.
 ### Back Copper:
 ![flip-flop-gerber-back-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/2031093d-22c1-402d-b373-9382672f65d8)
 
-## BOM
+# BOM
 | Id  | Designator | Footprint | Quantity | Designation | Supplier and ref |
 | --- | --- | --- | --- | --- | --- |
 | 1   | R3  | R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal | 1   | 100k |     |
