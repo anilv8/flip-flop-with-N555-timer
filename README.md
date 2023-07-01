@@ -1,6 +1,6 @@
 # Flip-Flop Circuit with N555 Timer
 Double Sided PCB design of Flip-Flop circuitwith NE555 Timer using KiCad.
-Dimensions 25 mm x 27 mm.
+Dimensions: 25 mm x 27 mm.
 
 ## Schematic of circuit
 ![flip-flop-schematic-](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/96e8f9cd-2b9d-4d49-b6f5-939b52184fb5)
@@ -8,7 +8,7 @@ Dimensions 25 mm x 27 mm.
 ![erc](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/71ea6938-224a-4d0e-b644-39850aeb1634)
 
 ## PCB Board
-FRont Copper:
+### Front Copper:
 ![flip-flop-pcb-front-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/e3f098f6-4d0f-4e10-a1e7-2b64310d2300)
 ### Back Copper:
 ![flip-flop-pcb-back-copper](https://github.com/anilv8/flip-flop-with-N555-timer/assets/81171588/691adbd1-fe27-44ed-ab3d-5c40aecdef75)
